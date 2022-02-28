@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis **Machine learning**
 ## Overview of the loan prediction risk analysis:
 
-The purpose of this analysis is to use various Machine Learning algorithms to resample the data. These algorithms include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier.
+The purpose of this analysis is to use various Machine Learning algorithms to resample the data due to the number of good loans outweighing the amount of risky loans. We use techniques to train and evaluate the data with unbalanced classes . These algorithms include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier.
 
 ![This is an image](https://github.com/Sirius0531/Credit_Risk_Analysis/blob/main/resources/1_resample_counter.PNG)
 ![This is an image](https://github.com/Sirius0531/Credit_Risk_Analysis/blob/main/resources/7_balance_clissifier.PNG)
